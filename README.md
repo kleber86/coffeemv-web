@@ -1,4 +1,7 @@
-# front
+<div align="center">
+    <h1>CoffeeMV</h1>
+    <img src="./coffee.gif">
+</div>
 
 ## Project setup
 ```
